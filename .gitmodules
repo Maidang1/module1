@@ -1,0 +1,3 @@
+[submodule "module2"]
+	path = module2
+	url = https://github.com/Maidang1/module2.git
